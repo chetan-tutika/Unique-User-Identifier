@@ -1,4 +1,4 @@
-# Unique-User-Identifier1
+# Unique-User-Identifier
 
 Since everyone moves differently and accelerometers are fast becoming ubiquitous, this competition is designed to investigate the feasibility of using accelerometer data as a biometric for identifying users of mobile devices.
 
